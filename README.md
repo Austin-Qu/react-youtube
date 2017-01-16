@@ -1,3 +1,3 @@
 # React-youtube
 
-React practice for retriving/search info from YoutubeAPI
+React practice for retrieving/searching info from YoutubeAPI
